@@ -13,7 +13,8 @@
 1. Extract Project
 2. flutter pub get in terminal
 3. Connect to Firebase with Firebase CLI [See Documentation](https://firebase.google.com/docs/cli?hl=id)
-4. Add apiKey in news_app/core/api/urls.dart
+4. Create account in [NewsApi](https://newsapi.org/) and Get apiKey
+5. Add apiKey in news_app/core/api/urls.dart
 
 
 ### How To Install Apk
